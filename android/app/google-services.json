@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "338405608314",
+    "project_id": "simple-task-manager-firebase",
+    "storage_bucket": "simple-task-manager-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338405608314:android:38df1b3b77b8eb057664c3",
+        "android_client_info": {
+          "package_name": "com.rsmirnykh.simple_task_manager_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338405608314-ku6g28u7mn8ulaqgqjohda7g47ps8hem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5MtAMHl-o_Ai4zE_t_18_fuaCfRTe97c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338405608314-ku6g28u7mn8ulaqgqjohda7g47ps8hem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
